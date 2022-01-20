@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cel30
+- 👀 I’m interested in Software Development and Product
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to extend my network.
+- 📫 How to reach me: larklind.com
